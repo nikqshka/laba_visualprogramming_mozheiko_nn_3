@@ -35,16 +35,17 @@
 Заголовок страницы изменён с добавлением фамилии, чтобы выполнить требование лабораторной работы.
 4.2. Глобальная переменная
 В редакторе изучались глобальные переменные и возможность использовать переменную типа Color для общего цвета элементов приложения.
-![GlobalVariable](../screenshots/03-global-variable.png)
+![GlobalVariable]<img width="1453" height="605" alt="image" src="https://github.com/user-attachments/assets/f5f7ed86-781b-464b-877f-6d2ab2908dce" />
 Скриншот 3 — настройка глобальной переменной цвета.
 4.3. Пользовательский стиль
 Создан пользовательский стиль для кнопки. Использование стилей позволяет повторно применять одинаковое оформление к элементам и упрощает согласованное изменение интерфейса.
-![Style]<img width="1453" height="605" alt="image" src="https://github.com/user-attachments/assets/f5f7ed86-781b-464b-877f-6d2ab2908dce" />
+![Style]<img width="687" height="842" alt="image" src="https://github.com/user-attachments/assets/a89f8fcd-68c9-4e96-8942-d822f4eae997" />
 
 Скриншот 4 — создание пользовательского стиля элемента.
 4.4. Готовый UI-компонент
 Из библиотеки компонентов Bubble добавлен готовый UI-компонент. Его оформление подбиралось с учётом интерфейса трекера привычек.
-![Component]<img width="687" height="842" alt="image" src="https://github.com/user-attachments/assets/a89f8fcd-68c9-4e96-8942-d822f4eae997" />
+![Component]<img width="1669" height="1026" alt="06-data-type" src="https://github.com/user-attachments/assets/ca6de535-78fe-43c6-806a-03a955d4c679" />
+
 
 Скриншот 5 — добавленный компонент из библиотеки Bubble.
 5. Создание структуры данных
